@@ -29,8 +29,10 @@ export default {
     ),
   },
 
-  sidebar: { 
-    togglebutton: 'true'
-  },
+
+  "sidebar": {
+    "togglebutton": false
+  }
+
   
  };
